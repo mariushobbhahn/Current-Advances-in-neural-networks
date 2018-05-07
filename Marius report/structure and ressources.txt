@@ -1,0 +1,20 @@
+abstract:
+AI is intelligent, not alignable with human goals, not controllable and does not change its goals. This is a problem.
+Automation might cause severe irrepearable inequality within our society. 
+
+AI:
+1. introduction:
+stamp collector -> even with best intentions might cause problems
+2.1 superintelligent
+2.2 goals do not align
+2.3 not controllable -> god in a box; what about simulations?
+2.4 goals unlikely to be changeable -> perpetuate it
+3. first mover problem
+4. Impacts
+
+Automation
+1. introduction:
+fear of losing jobs -> see industrial revolution -> this time it is different -> see horses and cars
+2. jobs are gonna be automated in big style 
+3. people are unlikely to get new jobs
+4. redistribution will not work anymore
