@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.12.14)  4 MAY 2018 12:13
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.12.14)  8 MAY 2018 11:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -328,10 +328,10 @@ Before submitting the final camera ready copy, remember to:
 
 ] (./IEEEpaper.aux) ) 
 Here is how much of TeX's memory you used:
- 3409 strings out of 493029
- 50423 string characters out of 6136233
- 118050 words of memory out of 5000000
- 6918 multiletter control sequences out of 15000+600000
+ 3410 strings out of 493029
+ 50453 string characters out of 6136233
+ 118053 words of memory out of 5000000
+ 6919 multiletter control sequences out of 15000+600000
  34085 words of font info for 63 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  37i,7n,26p,636b,238s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -340,7 +340,7 @@ Here is how much of TeX's memory you used:
 xlive/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/share/texlive/texmf-di
 st/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/
 urw/times/utmri8a.pfb>
-Output written on IEEEpaper.pdf (1 page, 47174 bytes).
+Output written on IEEEpaper.pdf (1 page, 47268 bytes).
 PDF statistics:
  25 PDF objects out of 1000 (max. 8388607)
  17 compressed objects within 1 object stream
